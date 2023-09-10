@@ -1,4 +1,33 @@
 {
+    "Default": {
+		"author": "ADITYA",
+		"featured": "default_wallpaper",
+		"wallpapers": {
+            "Default Wallpaper": {
+				"1": ""
+			}
+        }
+    },
+
+	"Project Blaze": {
+		"author": "Taki2305",
+		"featured": "blaze_a",
+		"wallpapers": {
+			"Project Blaze Exclusive 1": {
+				"1": ""
+			},
+			"Project Blaze Exclusive 2": {
+				"1": ""
+			},
+			"Project Blaze Exclusive 3": {
+				"1": ""
+			},
+			"Project Blaze Exclusive 4": {
+				"1": ""
+			}
+		}
+	},
+
     "Space": {
         "author": "Infinitum",
         "featured": "space_strange_landscape_1",
