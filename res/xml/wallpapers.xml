@@ -118,6 +118,26 @@
             src="@drawable/blaze_waterfall"
             title="@string/wallpaper_blaze_10" />
 
+	<static-wallpaper
+            id="blaze_waves-1"
+            src="@drawable/blaze_waves-1"
+            title="@string/wallpaper_blaze_11" />
+
+	<static-wallpaper
+            id="blaze_waves-2"
+            src="@drawable/blaze_waves-2"
+            title="@string/wallpaper_blaze_12" />
+
+	<static-wallpaper
+            id="blaze_waves-3"
+            src="@drawable/blaze_waves-3"
+            title="@string/wallpaper_blaze_13" />
+
+	<static-wallpaper
+            id="blaze_exclusive-A15"
+            src="@drawable/blaze_exclusive-A15"
+            title="@string/wallpaper_blaze_14" />
+
 	</category>
 
     <category id="space" title="@string/category_space" featured="space_strange_landscape_1">
